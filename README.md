@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Canelón</h1>
 
-![Static Badge](https://img.shields.io/badge/Skill-Data-Green)
+![Static Badge](https://img.shields.io/badge/Data-Green) / ![Static Badge](https://img.shields.io/badge/Backend-Red)
+
 
 
 <h3 align="center">Developer/Integrator. Data & Backend. Venezuela</h3>
