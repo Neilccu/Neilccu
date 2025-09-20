@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neil Canelón</h1>
+
+![Static Badge](https://img.shields.io/badge/Skill-Data-Green)
+
+
 <h3 align="center">Developer/Integrator. Data & Backend. Venezuela</h3>
 
 - 🌱 I’m currently learning **SQL / A.I. / Git / Python**
