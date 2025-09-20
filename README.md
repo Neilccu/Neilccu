@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **SQL / A.I. / Git / Python**
 
+- 🔭 I’m currently working on **CS50x SQL Harvard / CS50 AI Harvard / Python Angela Yu 100 Days bootcamp**
+
 - 📄 Know about my experiences **+10 years of experience supporting and developing administrative software.**
 
 <h3 align="left">Connect with me:</h3>
