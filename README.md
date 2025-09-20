@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neil Canelón</h1>
 
-![Static Badge](https://img.shields.io/badge/Data-004724) / ![Static Badge](https://img.shields.io/badge/Backend-470024) / ![Static Badge](https://img.shields.io/badge/Backend-240047)
+![Static Badge](https://img.shields.io/badge/Data-004724) ![Static Badge](https://img.shields.io/badge/Backend-470024) ![Static Badge](https://img.shields.io/badge/Backend-240047)
 
 
 
