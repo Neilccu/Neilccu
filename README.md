@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL / A.I. / Git / Python**
 
-- 📄 Know about my experiences [+10 years of experience supporting and developing administrative software.](+10 years of experience supporting and developing administrative software.)
+- 📄 Know about my experiences **+10 years of experience supporting and developing administrative software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
